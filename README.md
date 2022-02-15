@@ -1,2 +1,6 @@
-# PrimeiroProjeto
+# Primeiro Projeto
 Primeiro Repositório.
+
+...
+Criado por David Koller
+...
